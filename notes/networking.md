@@ -1,0 +1,4 @@
+- LAN = Local Area Network, usually private IP range (e.g. 192.168.x.x).
+- ARP maps IP addresses to MAC addresses on a LAN.
+- ICMP used for testing connectivity (e.g. ping).
+- Default gateway = router IP that takes traffic off the LAN.
